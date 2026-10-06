@@ -1,0 +1,8 @@
+interface:
+  display_name: "Kịch bản review sản phẩm"
+  short_description: "Review thực dụng, có kiểm chứng và bán hàng"
+  brand_color: "#E53935"
+  default_prompt: "Dùng $product-review-script để viết kịch bản review hoàn chỉnh từ thông tin sản phẩm này."
+
+policy:
+  allow_implicit_invocation: true
